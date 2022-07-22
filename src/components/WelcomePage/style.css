@@ -1,0 +1,16 @@
+.navBar{
+    display: flex;
+    background-color: #3e6ca8;
+    padding: 15px;
+    gap: 10px;
+    color: white;
+}
+
+.svgColor{
+    filter: invert(1);
+}
+
+.login{
+    margin-left: 150px;
+    padding: 100px;
+}

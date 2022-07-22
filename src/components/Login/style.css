@@ -1,0 +1,9 @@
+.loginDetails{
+    width: 20px;
+}
+.loginBox{
+    padding: 50px;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+}
